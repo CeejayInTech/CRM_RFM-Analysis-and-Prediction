@@ -17,15 +17,25 @@
 RFM analysis assigns each customer a score for each of these metrics, which are then used to segment customers into groups based on their overall score.
 
 *Champions:* Bought recently, buy often and spend the most. 
+
 *Loyal Customers:* Spend good money with us often. Responsive to promotions.
+
 *Potential Loyalist:* Recent customers, but spent a good amount and bought more than once.
+
 *New Customers:* Bought most recently, but not often.
+
 *Promising:* Recent shoppers, but haven’t spent much.
+
 *Need Attention:* Above average recency, frequency and monetary values. May not have bought very recently though.
+
 *About To Sleep:* Below average recency, frequency and monetary values. Will lose them if not reactivated.
+
 *At Risk:* Spent big money and purchased often. But a long time ago. Need to bring them back.
+
 *Can’t Lose Them:* Made the biggest purchases, and often. But haven’t returned for a long time.
+
 *Hibernating:* Last purchase was long back, low spenders and bought seldomly. 
+
 *Lost:* Customers who have not made any purchase recently.
 
 #### This segmentation helps businesses identify which customers are most valuable and should receive priority attention, and which customers are less valuable and may require less attention or targeted marketing efforts.
